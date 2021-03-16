@@ -7,7 +7,9 @@ def line(start, end):
     goto(start.x, start.y)
     down()
     goto(end.x, end.y)
-
+"""
+linea de prueba
+"""
 def square(start, end):
     "Draw square from start to end."
     up()
